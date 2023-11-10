@@ -1,0 +1,4 @@
+1	no_water_supply
+1	it_example
+1	example_from_parent
+6	njhhb

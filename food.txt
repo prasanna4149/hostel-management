@@ -1,0 +1,9 @@
+
+breadbutter	vegthali	vegthali
+pohe	vegthali	vegthali
+omlet	vegthali	vegthali
+upma	vegthali	vegthali
+paratha	vegthali	vegthali
+dosa	vegthali	vegthali
+pohe	vegthali	vegthali
+pohe	veg	thali

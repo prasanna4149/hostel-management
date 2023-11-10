@@ -1,0 +1,5 @@
+1	prasanna	12000	1000
+ 2	vansh	14000	0
+ 3	aditya	12000	0
+ 1	prasanna	13000	0
+ 
